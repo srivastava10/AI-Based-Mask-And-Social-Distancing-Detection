@@ -9,7 +9,7 @@ ______________________________________________________________
 - Can be deployed on edge and cloud both. It is lightweight.
       
 
-- The USP of this project is that it can detect multiple people (around 100) in one frame. 
+- The Unique Selling Point of this project is that it can detect multiple people (around 100) in one frame. 
       
 
 - This has great use in surveillance and security purpose to find out who all are following the rules.
@@ -17,9 +17,9 @@ ______________________________________________________________
 ______________________________________________________________
 ## Social Distancing Detection
 
-- This system raises a trigger alert whenever someone breaks social distancing in monitored area
+- This system can raise a trigger alert whenever someone breaks social distancing in monitored area
 
-- The distance calculated is height independent
+- The unique selling point is that the distance calculated is height independent
 
 - Can also be used as an individual product in crowded areas. like malls, shopping complexes, railway stations, airports etc., along with the feed the user will get the statistics report including:-
 
